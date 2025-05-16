@@ -1,0 +1,1 @@
+USER_PROFILE_UPLOAD_MEDIA_PATH = "profile/%s/%s"
