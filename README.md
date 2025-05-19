@@ -10,9 +10,14 @@
 
 **NaqliFy** is a playful and powerful fake data generator API built using **Django Rest Framework** and the **Faker** Python library. Whether you're building apps, testing APIs, or mocking databases, NaqliFy provides a wide variety of structured fake data on-demand — including:
 
-#### Pending
+#### Released
+
+#### Development
 
 - ✈️ Airline
+
+#### Pending
+
 - 🦁 Animal
 - 📖Book
 - 🖊Color
